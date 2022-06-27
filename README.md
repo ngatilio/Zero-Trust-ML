@@ -12,8 +12,11 @@ at the entry of an ML system (i.e., on input data before access by the
 ML system), and at the exit of an ML system (i.e., on predictions before
 an action is made).
 
-![ZTML architecture](https://github.com/ngatilio/Zero-Trust-ML/blob/main/zero_trust_model.pdf)
-
+<object data="https://github.com/ngatilio/Zero-Trust-ML/blob/main/zero_trust_model.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="https://github.com/ngatilio/Zero-Trust-ML/blob/main/zero_trust_model.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ngatilio/Zero-Trust-ML/blob/main/zero_trust_model.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 [1] https://arxiv.org/abs/2206.11981
 [2] https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf
